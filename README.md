@@ -1,1 +1,3 @@
 # basicpython
+
+Python mokymai.
